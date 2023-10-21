@@ -1,0 +1,65 @@
+
+
+------FACTURA No.13------
+------Angel Linares------
+------Materiales usados------
+Tipo------Cantidad------Precio  
+Madera:      90         Q50.00
+Clavos:      108         Q25.00
+Goma:        30         Q25.00
+Total-------------------Q600.00
+
+------FACTURA No.8------
+------Lucas------
+------Materiales usados------
+Tipo------Cantidad------Precio  
+Madera:      75         Q50.00
+Clavos:      90         Q25.00
+Goma:        25         Q25.00
+Total-------------------Q500.00
+
+------FACTURA No.14------
+------Lucas------
+------Materiales usados------
+Tipo------Cantidad------Precio  
+Madera:      45         Q50.00
+Clavos:      54         Q25.00
+Goma:        15         Q25.00
+Total-------------------Q300.00
+
+------FACTURA No.7------
+------Marcos------
+------Materiales usados------
+Tipo------Cantidad------Precio  
+Madera:      45         Q50.00
+Clavos:      54         Q25.00
+Goma:        15         Q25.00
+Total-------------------Q300.00
+
+------FACTURA No.10------
+------Marcos------
+------Materiales usados------
+Tipo------Cantidad------Precio  
+Madera:      45         Q50.00
+Clavos:      54         Q25.00
+Goma:        15         Q25.00
+Total-------------------Q300.00
+
+------FACTURA No.23------
+------Lucas------
+------Materiales usados------
+Tipo------Cantidad------Precio  
+Madera:      45         Q50.00
+Clavos:      54         Q25.00
+Goma:        15         Q25.00
+Total-------------------Q300.00
+
+------FACTURA No.12------
+------Lucas------
+------Materiales usados------
+Tipo------Cantidad------Precio  
+Madera:      45         Q50.00
+Clavos:      54         Q25.00
+Goma:        15         Q25.00
+Total-------------------Q300.00
+
